@@ -5,3 +5,6 @@ O Deno é um tempo de execução para JavaScript e TypeScript baseado no mecanis
 - 'https://deno.land/x/qrcode/mod.ts
 - 'https://deno.land/std/http/server.ts
 
+####Run
+deno run --allow-net qrcode-generator.js
+
